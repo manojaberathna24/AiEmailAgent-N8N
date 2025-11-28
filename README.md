@@ -1,1 +1,1 @@
-![AI Agent Node](images/n8n.jpg)
+![AI Agent Node](images/n8n.JPG)
